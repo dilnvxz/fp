@@ -1,5 +1,5 @@
 import asyncio
-
+#gjjjjjj
 async def task1():
     print("Выполняется задача 1")
     await asyncio.sleep(1)  # Эмулируем длительную операцию
