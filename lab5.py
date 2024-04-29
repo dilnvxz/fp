@@ -7,6 +7,7 @@ def permutations(lst):
                 yield perm[:i] + [lst[0]] + perm[i:]
 
 # Пример использования:
+#dddddd
 my_list = [1, 2, 3]
 for perm in permutations(my_list):
     print(perm)
