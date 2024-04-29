@@ -1,4 +1,5 @@
 def permutations(lst):
+    #laaaab5
     if len(lst) <= 1:
         yield lst
     else:
