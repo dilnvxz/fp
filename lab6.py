@@ -3,7 +3,7 @@ import random
 from rx import Observable
 from rx.subject import BehaviorSubject
 
-
+#diko
 def get_computer_choice():
     return random.choice(['к', 'н', 'б'])
 
